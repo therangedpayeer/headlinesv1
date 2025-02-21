@@ -1,9 +1,9 @@
 -- Preview: https://gyazo.com/02cfb4aa8659ba5f6ee67a90514cc34d
 -- Made by Blissful#4992
 local Settings = {
-    Color = Color3.fromRGB(35, 20, 28), -- Color of the line
+    Color = Color3.fromRGB(235, 20, 28), -- Color of the line
     Thickness = 0.4, -- Thickness of the line (Overruled by AutoThickness if activated)
-    Transparency = 0.3, -- 1 Visible - 0 Not Visible
+    Transparency = 0.8, -- 1 Visible - 0 Not Visible
     AutoThickness = true, -- Makes Thickness above futile, scales according to distance, good for less encumbered screen
     Length = 135, -- In studs of the line
     Smoothness = 0.2 -- 0.01 - Less Smooth(Faster), 1 - Smoother (Slower)
